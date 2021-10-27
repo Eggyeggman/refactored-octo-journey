@@ -1,2 +1,1 @@
-# refactored-octo-journey
-O.O
+# project-template-myquiz
